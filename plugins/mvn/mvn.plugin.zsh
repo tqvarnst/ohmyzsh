@@ -68,6 +68,7 @@ alias mvnt='mvn test'
 alias mvntc='mvn tomcat:run'
 alias mvntc7='mvn tomcat7:run'
 alias mvn-updates='mvn versions:display-dependency-updates'
+alias mvnq='mvn quarkus:dev'
 
 
 function listMavenCompletions {
